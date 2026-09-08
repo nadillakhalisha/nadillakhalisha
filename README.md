@@ -5,16 +5,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ff9ecb&height=150&section=header&text=Hi,%20I'm%20Nadilla%20%F0%9F%8C%B8&fontSize=32&fontColor=ffffff)
 
 <p align="center">
-  🌷 Sedang belajar Machine Learning & AI &nbsp;|&nbsp; 💻 Suka bikin project kecil-kecilan &nbsp;|&nbsp; 📍 Indonesia
+  🌷 Sedang belajar Machine Learning & AI &nbsp;|&nbsp; 💻 Suka bikin project kecil-kecilan 
 </p>
 
 <br>
 
-## 🌸 Tentang Aku
-- 🔭 Sedang mengerjakan project **AI Study Buddy** (RAG chatbot pakai Ollama)
-- 🌱 Belajar seputar Machine Learning & Web Development
-- 💬 Bisa diajak diskusi soal Python, JavaScript, atau PHP
-- 📫 Cara menghubungi: *(isi email/sosmed kamu di sini)*
+## 🌸 Tentang Saya
+Saya sedang mengembangkan kemampuan di bidang **Machine Learning** dan **Web Development**, dengan minat besar untuk terus belajar teknologi baru secara mandiri. Beberapa project yang sudah saya kerjakan mencakup aplikasi berbasis AI, sistem pencatatan keuangan sederhana, dan website interaktif menggunakan berbagai bahasa pemrograman.
+
+**Fokus saat ini:** Python, JavaScript, PHP, serta eksplorasi Machine Learning
+**Terbuka untuk:** kolaborasi project, diskusi teknis, dan peluang belajar bersama
+
+📫 Kontak: *(https://www.linkedin.com/in/nadilla-khalisha/)*
 
 <br>
 
